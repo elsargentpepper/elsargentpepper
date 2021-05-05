@@ -2,9 +2,11 @@
 
 ### About me
 
-🔭 I’m currently working on becoming a Frontend Developer
+👁️‍🗨️ Bilingual - Audio Visual Production - Learning to code at [Platzi](https://platzi.com/)
 
-🌱 I’m currently a [Platzi Master student](https://platzi.com/master/)
+🔭 I’m working on becoming a Frontend Developer
+
+🌱 I’m currently a [Platzi Master student](https://platzi.com/master/) and learning A LOT
 
 ⚡ Fun fact: I love to cross stitch, see what I am talking about at [@elsgt_stitchs](https://www.instagram.com/elsgt_stitchs/)
 
