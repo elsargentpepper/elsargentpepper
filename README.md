@@ -1,8 +1,8 @@
-## Hello! I am Elsa Portilla, also know as elsargentpepper
+## Hello! I am Elsa Portilla also know as elsargentpepper
 
 ### About me
 
-👁️‍🗨️ Bilingual - Audio Visual Production - Learning to code at [Platzi](https://platzi.com/)
+👁️‍🗨️ Bilingual - Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
 
 🔭 I’m working on becoming a Frontend Developer
 
@@ -26,6 +26,7 @@
 
 <a href="https://www.linkedin.com/in/elsaportilla/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="31" width="120"></a><a href="https://twitter.com/elsargentpepper" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="31" width="120"></a><a href="https://www.instagram.com/elsargentpepper/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="33" width="120"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsargentpepper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **elsargentpepper/elsargentpepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +41,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsargentpepper&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsargentpepper&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 -->
