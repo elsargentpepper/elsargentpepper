@@ -2,11 +2,11 @@
 
 ### About me
 
-👁️‍🗨️ Bilingual - Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
+👁️‍🗨️ Bilingual (soon trilingual) - Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
 
 🔭 I’m working on becoming a Frontend Developer
 
-🌱 I’m currently a [Platzi Master student](https://platzi.com/master/) and learning A LOT
+🌱 I’m currently a [Platzi Master student](https://platzi.com/master/), learning A LOT!!!!
 
 ⚡ Fun fact: I love to cross stitch, see what I am talking about at [@elsgt_stitchs](https://www.instagram.com/elsgt_stitchs/)
 
