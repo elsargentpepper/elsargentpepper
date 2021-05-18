@@ -24,7 +24,7 @@
 
 ### More about me
 
-<a href="https://www.linkedin.com/in/elsaportilla/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="31" width="120"></a><a href="https://twitter.com/elsargentpepper" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="31" width="120"></a><a href="https://www.instagram.com/elsargentpepper/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="33" width="120"></a>
+<a href="https://www.linkedin.com/in/elsaportilla/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="31" width="120"></a><a href="https://twitter.com/elsargentpepper" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="31" width="120"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsargentpepper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
