@@ -2,7 +2,7 @@
 
 ### About me
 
-👁️‍🗨️ Bilingual (soon trilingual) - Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
+👁️‍🗨️ Bilingual (English, Spanish) - Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
 
 🔭 I’m working on becoming a Frontend Developer
 
