@@ -1,14 +1,12 @@
-## Hello! I am Elsa Portilla also know as elsargentpepper
+## Hello! I am Elsa Portilla
 
 ### About me
 
-👁️‍🗨️ Bilingual (English, Spanish) - Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
+👁️‍🗨️ Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
 
 🔭 I’m working on becoming a Frontend Developer
 
-🌱 I’m currently a [Platzi Master student](https://platzi.com/master/), learning A LOT!!!!
-
-⚡ Fun fact: I love to cross stitch, see what I am talking about at [@elsgt_stitchs](https://www.instagram.com/elsgt_stitchs/)
+🌱 I’m currently a [Platzi Master student](https://platzi.com/master/)
 
 ### Technologies
 
