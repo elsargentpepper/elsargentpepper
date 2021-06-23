@@ -2,27 +2,20 @@
 
 ### About me
 
-👁️‍🗨️ Audio Visual Producer - Learning to code at [Platzi](https://platzi.com/)
+👁️‍🗨️ React frontend developer, with experience in audiovisual production and post production. With an interest in project management and agile methologies.
 
-🔭 I’m working on becoming a Frontend Developer
-
-🌱 I’m currently a [Platzi Master student](https://platzi.com/master/)
+🌱 I’m currently a [Platzi Master student](https://platzi.com/master/) as a Frontend Developer
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/-HTML-red"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JavaScript-yellow"> 
-
-### Softwares, IDE's, OS's
-
-<img src="https://img.shields.io/badge/-VSCode-blue"> <img src="https://img.shields.io/badge/-Figma-orange"> <img src="https://img.shields.io/badge/-MacOS-red">
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/bem.svg" alt="bem" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" alt="TravisCI" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" width="40" height="40"/></p>
 
 ### Languages
 
-<img src="https://img.shields.io/badge/-Spanish-success"> <img src="https://img.shields.io/badge/-English-success"> <img src="https://img.shields.io/badge/-Portuguese-yellow"> 
+<p align="left"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-spain_1f1ea-1f1f8.png" alt="Spanish" width="40" height="40"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-united-kingdom_1f1ec-1f1e7.png" alt="English" width="40" height="40"/><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-portugal_1f1f5-1f1f9.png" alt="English" width="40" height="40"/></p>
 
 ### More about me
-
-<a href="https://www.linkedin.com/in/elsaportilla/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="31" width="120"></a><a href="https://twitter.com/elsargentpepper" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="31" width="120"></a>
+<p align="left"><a href="https://www.linkedin.com/in/elsaportilla/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in profile" width="40" height="40"/></a> <a href="https://twitter.com/elsargentpepper" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter account" width="40" height="40"/></a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsargentpepper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
