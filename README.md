@@ -1,8 +1,8 @@
+![banner_mee](https://i.imgur.com/ox8Yh2g.jpg)
+
 ## Hello! I am Elsa Portilla
 
 ### About me
-
-👁️‍🗨️ React frontend developer, with experience in audiovisual production and post production. With an interest in project management and agile methologies.
 
 🌱 I’m currently a [Platzi Master student](https://platzi.com/master/) as a Frontend Developer
 
