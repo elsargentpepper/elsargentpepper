@@ -15,19 +15,27 @@ I am a [Platzi Master student](https://platzi.com/master/) specializing as a Rea
 
 ##
 
-### Technologies 
+### Technologies ans skills
+<p>
+  <img src="https://img.shields.io/badge/-GIT-lightgrey?style=flat&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/-Github-blueviolet?style=flat&logo=github&logoColor=white" alt="github"/>
+</p>
 <p>
   <img src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
-  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white" alt="react"/>
-  <img src="https://img.shields.io/badge/Figma-blueviolet?style=flat&logo=figma&logoColor=white" alt="figma"/>
-  <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat&logo=visualstudiocode&logoColor=white" alt="visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=notion&logoColor=white" alt="notion"/>
+  <img src="https://img.shields.io/badge/React-9cf?style=flat&logo=react&logoColor=white" alt="react"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/PUG-red?style=flat&logo=pug&logoColor=white" alt="pug"/>
   <img src="https://img.shields.io/badge/Sass-ff69b4?style=flat&logo=SASS&logoColor=white" alt="sass"/>
   <img src="https://img.shields.io/badge/TravisCI-orange?style=flat&logo=travisci&logoColor=white" alt="travisCI"/>
-  <img src="https://img.shields.io/badge/Webpack-blue?style=flat&logo=webpack&logoColor=white" alt="webpack"/>
+  <img src="https://img.shields.io/badge/Webpack-9cf?style=flat&logo=webpack&logoColor=white" alt="webpack"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Figma-blueviolet?style=flat&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat&logo=visualstudiocode&logoColor=white" alt="visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=notion&logoColor=white" alt="notion"/>
 </p>
 
 ##
