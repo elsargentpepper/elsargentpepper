@@ -6,7 +6,7 @@ I am a [Platzi Master student](https://platzi.com/master/) specializing as a Rea
 
 ### Contact me
 
-<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Linked in profile" width="15" height="15"/> [elsa.portilla@gmail.com](elsa.portilla@gmail.com)
+<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Linked in profile" width="15" height="15"/> [elsa.portilla@gmail.com](mailto:elsa.portilla@gmail.com)
 
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in profile" width="15" height="15"/> [@Elsa Portilla](https://www.linkedin.com/in/elsaportilla/)
 
