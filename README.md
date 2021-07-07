@@ -2,16 +2,33 @@
 
 ## Hello! I also like to be known as elsargentpepper
 
-I am a [Platzi Master student](https://platzi.com/master/) as a React Frontend Developer with experience in audiovisual production and post production. Also I am interested in project management and agile methologies.
+I am a [Platzi Master student](https://platzi.com/master/) specializing as a React Frontend Developer with experience in audiovisual post production. Also I am interested in project management and agile methologies.
 
 ### Contact me
-<p align="left"><a href="https://www.linkedin.com/in/elsaportilla/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in profile" width="40" height="40"/></a> <a href="https://twitter.com/elsargentpepper" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter account" width="40" height="40"/></a></p>
+
+<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Linked in profile" width="15" height="15"/> [elsa.portilla@gmail.com](elsa.portilla@gmail.com)
+
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linked in profile" width="15" height="15"/> [@Elsa Portilla](https://www.linkedin.com/in/elsaportilla/)
+
+<img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Twitter account" width="15" height="15"/> [@elsargentpepper](https://twitter.com/elsargentpepper)
+
 
 ##
 
 ### Technologies 
-
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/bem.svg" alt="bem" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" alt="TravisCI" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="Webpack" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" width="40" height="40"/></p>
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
+  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white" alt="react"/>
+  <img src="https://img.shields.io/badge/Figma-blueviolet?style=flat&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat&logo=visualstudiocode&logoColor=white" alt="visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Notion-lightgrey?style=flat&logo=notion&logoColor=white" alt="notion"/>
+  <img src="https://img.shields.io/badge/PUG-red?style=flat&logo=pug&logoColor=white" alt="pug"/>
+  <img src="https://img.shields.io/badge/Sass-ff69b4?style=flat&logo=SASS&logoColor=white" alt="sass"/>
+  <img src="https://img.shields.io/badge/TravisCI-orange?style=flat&logo=travisci&logoColor=white" alt="travisCI"/>
+  <img src="https://img.shields.io/badge/Webpack-blue?style=flat&logo=webpack&logoColor=white" alt="webpack"/>
+</p>
 
 ##
 
