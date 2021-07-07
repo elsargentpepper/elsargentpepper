@@ -40,9 +40,10 @@ I am a [Platzi Master student](https://platzi.com/master/) specializing as a Rea
 
 ### Github stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsargentpepper&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsargentpepper" />
-</a>
+</a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsargentpepper&show_icons=true" />
+</a></p>
+
