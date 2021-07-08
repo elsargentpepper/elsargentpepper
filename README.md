@@ -1,4 +1,4 @@
-![banner_mee](https://imgur.com/gptAFH6)
+![banner_mee](https://i.imgur.com/gptAFH6.jpg)
 
 ## Hello! I also like to be known as elsargentpepper
 
