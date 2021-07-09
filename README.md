@@ -2,7 +2,7 @@
 
 ## Hello! I also like to be known as elsargentpepper
 
-I am a [Platzi Master student](https://platzi.com/master/) specializing as a React Frontend Developer with experience in audiovisual post production. Also I am interested in project management and agile methologies.
+I am a [Platzi Master student](https://platzi.com/master/) specializing as a React Frontend Developer with experience in audiovisual post production. Also I am interested in project management and agile methodologies.
 
 ### Contact me
 
